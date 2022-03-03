@@ -1,0 +1,28 @@
+.header{
+    background-color: 
+    #264653;
+    color: white;
+}
+
+.nav-bar{
+    margin-left: 55%;
+    
+}
+
+
+.featured-bikes{
+    width: 280px;
+    height: 240px;
+}
+.gray-bike{
+    filter: grayscale(1);
+}
+.bike-card{
+    width: 330px;
+    height: 250px;
+}
+.icon-star{
+    width: 18px;
+    height: 18px;
+    color: #E77C40;
+}
